@@ -76,7 +76,7 @@ Fastfetch est un outil similaire à neofetch pour récupérer et afficher les in
 **⚙️ Installation:**  
 tu peut suivre les étapes d'installation si dessous si tu veut que ton terminal ressemble 100% au mien.
 - Télécharge [**Fastfetch**](https://github.com/fastfetch-cli/fastfetch/releases) le **Windows terminal** est normalement déjà installé.
-- Copie le fichier de config du terminal [**Ici**](https://github.com/SleepyCatHey/Ultimate-Win11-Setup/tree/main/Terminal), le profil PowerShell [**Ici**](https://github.com/SleepyCatHey/Ultimate-Win11-Setup/tree/main/PowerShell) et la config Fastfetch [**Ici**](https://github.com/SleepyCatHey/Ultimate-Win11-Setup/tree/main/Fastfetch)
+- Copie le fichier de config du terminal [**Ici**](https://github.com/sosodk13/-Win11-Setup-Ultime/tree/main/Terminal)), le profil PowerShell [**Ici**](https://github.com/sosodk13/-Win11-Setup-Ultime/tree/main/PowerShell) et la config Fastfetch [**Ici**]((https://github.com/sosodk13/-Win11-Setup-Ultime/tree/main/Fastfetch))
 - Supprime le contenu du fichier settings.json de **ton terminal** et colle celui que tu viens de copier. Fais pareil pour ton profil PowerShell.
 - Crée un fichier **.config** *caché* dans C:\Users\%USERPROFILE% et crée un dossier **fastfetch** à l'intérieur. Colle la config et l'ASCII que tu viens de télécharger dans ce dossier.
 -Remplace le **%USERPROFILE%** dans le fichier de config du dossier fastfetch et dans le profil PowerShell par ton **nom d'utilisateur**.
